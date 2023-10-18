@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:14:38.215Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="IEQo5am1uhWzHyyOO2zB" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T06:17:12.761Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="h2aExHai_DyNm7U2jLuR" version="21.6.6" type="github">
   <diagram name="第 1 页" id="TnU5XRjDn2oDrnmm7cKx">
     <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,17 @@
         <mxCell id="SMaw-7qcyWKr8AtoimVd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="416" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-13" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-14" value="采集控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-15" value="录制和记录控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-16" value="患者控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
