@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:52:01.621Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.6.6" etag="hxECpCcgYUb_QzSKT5_j" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-18T07:24:47.412Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Rv9Fp1KiMXa7IoanyOu_" version="21.6.6" type="github">
   <diagram name="第 1 页" id="db2C9ehG3oDeZpzlVr3G">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-18" value="&lt;div align=&quot;left&quot;&gt;前端&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="740" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-3" value="&lt;div align=&quot;left&quot;&gt;后端&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="310" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-1" value="主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-2" value="蓝牙模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-4" target="5l7qBDm9Jt7u1dhL_BPI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-4" value="接收蓝牙推送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-5" target="5l7qBDm9Jt7u1dhL_BPI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-5" value="原始数据缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-7" target="5l7qBDm9Jt7u1dhL_BPI-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-7" value="滤波处理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-9" target="5l7qBDm9Jt7u1dhL_BPI-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-9" value="滤波后缓存" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-11" target="5l7qBDm9Jt7u1dhL_BPI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-11" value="推送前端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-16" value="波形展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
