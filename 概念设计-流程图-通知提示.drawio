@@ -1,9 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T10:45:26.462Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.6.6" etag="AWjCEzk6yXB0vLTYEBHj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T10:52:06.400Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="nGQlwf-X3CrGXEDqY_zU" version="21.6.6" type="github">
   <diagram name="第 1 页" id="ckMDDfg6lY-sUv1J4YZN">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-1" target="D4CkOr6IfCPt_wGNM73A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-1" target="D4CkOr6IfCPt_wGNM73A-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-1" value="设备链接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-2" target="D4CkOr6IfCPt_wGNM73A-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-2" value="定时任务更新设备电量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-4" target="D4CkOr6IfCPt_wGNM73A-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-4" value="验证低电量" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-6" target="D4CkOr6IfCPt_wGNM73A-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-10" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D4CkOr6IfCPt_wGNM73A-9">
+          <mxGeometry x="-0.2333" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-6" target="D4CkOr6IfCPt_wGNM73A-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-31" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D4CkOr6IfCPt_wGNM73A-30">
+          <mxGeometry x="0.14" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-6" value="是否低电量" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-8" target="D4CkOr6IfCPt_wGNM73A-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-8" value="推送电量告警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-15" target="D4CkOr6IfCPt_wGNM73A-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-15" value="开启采集" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-17" target="D4CkOr6IfCPt_wGNM73A-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-17" value="开启录制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-19" target="D4CkOr6IfCPt_wGNM73A-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-19" value="收到断开监听" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-21" target="D4CkOr6IfCPt_wGNM73A-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-21" value="断开主机" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-23" target="D4CkOr6IfCPt_wGNM73A-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-23" value="停止录制" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4CkOr6IfCPt_wGNM73A-25" target="D4CkOr6IfCPt_wGNM73A-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-25" value="推送断开告警" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="523" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4CkOr6IfCPt_wGNM73A-27" value="前端显示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
