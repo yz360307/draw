@@ -1,56 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-10-18T06:17:12.761Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="h2aExHai_DyNm7U2jLuR" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T03:40:06.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.46" etag="uuMrhwUWgfAj3oJG8F09" version="22.0.4" type="github">
   <diagram name="第 1 页" id="TnU5XRjDn2oDrnmm7cKx">
-    <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-11" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="326" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="240" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-1" value="图像化界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-1" value="图像化界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-2" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-2" value="后端服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-3" value="主机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-3" value="主机" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="426" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-5" value="授权设备信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-5" value="授权设备信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="250" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-6" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-6" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="380" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-7" value="录制记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-7" value="录制记录" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-8" value="患者信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-8" value="患者信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-9" value="异常告警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-9" value="异常告警" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="790" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-10" value="波形图显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-10" value="波形图显示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="416" width="680" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-13" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-13" value="采集数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="426" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-14" value="采集控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-14" value="采集控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-15" value="录制和记录控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-15" value="录制和记录控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SMaw-7qcyWKr8AtoimVd-16" value="患者控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SMaw-7qcyWKr8AtoimVd-16" value="患者控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm54ohN2hjHb2IA7LJyF-1" value="电池电量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hm54ohN2hjHb2IA7LJyF-2" value="控制命令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="426" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
