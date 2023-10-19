@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T08:50:37.943Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="IqRV1FKxQhyjydiWOwH4" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T09:37:18.693Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="tn8-xdtVvY407n9LqRnw" version="21.6.6" type="github">
   <diagram name="第 1 页" id="e2uv00AAZcbPJ5dO1Pah">
     <mxGraphModel dx="2074" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="zwk_ola657jVoU6oGdOF-18" value="停止扫描" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwk_ola657jVoU6oGdOF-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwk_ola657jVoU6oGdOF-21" target="zwk_ola657jVoU6oGdOF-23">
+        <mxCell id="zwk_ola657jVoU6oGdOF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwk_ola657jVoU6oGdOF-21" target="zwk_ola657jVoU6oGdOF-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-21" value="点击未连接按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -98,19 +98,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-23" value="是否链接" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="780" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="880" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-25" value="返回错误信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zwk_ola657jVoU6oGdOF-28" target="zwk_ola657jVoU6oGdOF-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-28" value="更新设备状态，并获取设备电量、通道、采样率信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="890" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zwk_ola657jVoU6oGdOF-31" value="推送设备信息更新前端状态" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zwk_ola657jVoU6oGdOF-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwk_ola657jVoU6oGdOF-36" target="zwk_ola657jVoU6oGdOF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zwk_ola657jVoU6oGdOF-36" value="调用蓝牙链接" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
