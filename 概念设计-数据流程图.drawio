@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T02:19:56.542Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="fALyFbYqBEXe7JjfWQT_" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T02:21:08.064Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="9yY9xKQ63DzI6JevBUEj" version="22.0.6" type="github">
   <diagram name="第 1 页" id="db2C9ehG3oDeZpzlVr3G">
     <mxGraphModel dx="1534" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,16 +40,13 @@
         <mxCell id="5l7qBDm9Jt7u1dhL_BPI-9" value="滤波后缓存" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5l7qBDm9Jt7u1dhL_BPI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-11" target="5l7qBDm9Jt7u1dhL_BPI-16" edge="1">
+        <mxCell id="eo1M94DTiMhXyeLwdG-p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-11" target="5l7qBDm9Jt7u1dhL_BPI-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5l7qBDm9Jt7u1dhL_BPI-11" value="推送前端" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="225" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32Oq8wK0fe0SzrmpUgBu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-16" target="5l7qBDm9Jt7u1dhL_BPI-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="32Oq8wK0fe0SzrmpUgBu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-16" target="32Oq8wK0fe0SzrmpUgBu-3">
+        <mxCell id="32Oq8wK0fe0SzrmpUgBu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="5l7qBDm9Jt7u1dhL_BPI-16" target="32Oq8wK0fe0SzrmpUgBu-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5l7qBDm9Jt7u1dhL_BPI-16" value="接收后端数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -70,7 +67,7 @@
         <mxCell id="b-7zUIvUrrHvl0-bY4fH-8" value="主控和无线通讯芯片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="32Oq8wK0fe0SzrmpUgBu-3" value="波形展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="32Oq8wK0fe0SzrmpUgBu-3" value="波形展示" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="225" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
