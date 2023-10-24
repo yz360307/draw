@@ -1,9 +1,155 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T02:31:34.010Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" version="22.0.6" etag="VvsPOJSKNqGjCm_levbv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T02:32:55.345Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="1zcf3nTGncNoz1H_c4LY" version="22.0.6" type="github">
   <diagram name="第 1 页" id="y4COC3WBgxmngS8vt-3X">
-    <mxGraphModel>
+    <mxGraphModel dx="1534" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="axDak45hgAyYMtxN_CDM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-2" value="信息是否合法" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="56" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-5" target="axDak45hgAyYMtxN_CDM-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-5" value="患者管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-6" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="436" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-8" target="axDak45hgAyYMtxN_CDM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-8" value="是否设置当前患者" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="180" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-11" target="axDak45hgAyYMtxN_CDM-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-11" value="系统配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-12" value="关于我们" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="10" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-13" value="&lt;div style=&quot;&quot;&gt;1、设备扫描&lt;/div&gt;&lt;div style=&quot;&quot;&gt;2、设备连接&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3、设备状态信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="257.5" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-16" target="axDak45hgAyYMtxN_CDM-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-16" target="axDak45hgAyYMtxN_CDM-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-16" value="采集条件" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-20" value="信号采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-21" value="1、设备连接&lt;br&gt;2、设备具备采集功能" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-22" value="1、通知提示&lt;br&gt;2、电量显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="609.5" as="targetPoint" />
+            <mxPoint x="605" y="609.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="609.5" as="targetPoint" />
+            <mxPoint x="525" y="609.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-25" value="数据管理&lt;br&gt;1、数据删除&lt;br&gt;2、数据查询&lt;br&gt;3、数据重命名&lt;br&gt;4、导出" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-26" value="&lt;div style=&quot;text-align: left;&quot;&gt;1、开始记录&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、停止记录&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、自定义记录名称&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-27" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-28" value="数据记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="570" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-30" target="axDak45hgAyYMtxN_CDM-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-30" value="普通模式：&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;1、显示最大值&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;2、显示最小值&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;3、显示RMS&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;4、设置波形显示时间窗口范围&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="395" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-31" value="精确模式&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;1、设置波形显示时间窗口范围&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;2、暂停波形和恢复实时显示&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;3、隐藏和显示水平标尺&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;4、切换到普通模式&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;5、设置标尺精度&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;6、手动移动标尺并计算标尺差值&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;7、显示最大值、最小值、RMS、幅值&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37" target="axDak45hgAyYMtxN_CDM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37" target="axDak45hgAyYMtxN_CDM-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37" target="axDak45hgAyYMtxN_CDM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37" target="axDak45hgAyYMtxN_CDM-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-37" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-38" value="登录操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="185" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-39" value="登出操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="185" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-40" value="修改用户名和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="185" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.638;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="axDak45hgAyYMtxN_CDM-37" target="axDak45hgAyYMtxN_CDM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axDak45hgAyYMtxN_CDM-42" value="1、新建&lt;br&gt;2、删除&lt;br&gt;3、修改&lt;br&gt;4、指定当前患者" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
